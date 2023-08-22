@@ -1,0 +1,40 @@
+1) 2/4 Half 
+2) 2/4 DottedQuarter Eighth 
+3) 2/4 Eighth Quarter Eighth 
+4) 2/4 Quarter Eighth Eighth 
+5) 2/4 Half 
+6) 2/4 DottedQuarter Eighth 
+7) 2/4 Half 
+8) 2/4 Half 
+9) 2/4 Quarter Quarter 
+10) 2/4 Half 
+11) 2/4 Quarter Quarter 
+12) 2/4 DottedQuarter Eighth 
+13) 2/4 DottedQuarter Eighth 
+14) 2/4 Eighth Quarter Eighth 
+15) 2/4 Quarter Quarter 
+16) 2/4 Half 
+17) 2/4 DottedQuarter Eighth 
+18) 2/4 Eighth Eighth Eighth Eighth 
+19) 2/4 Quarter Eighth Eighth 
+20) 2/4 Half 
+1) 3/4 Eighth Eighth Eighth Eighth Eighth Eighth 
+2) 3/4 Eighth Eighth Eighth Eighth Eighth Eighth 
+3) 3/4 Half Eighth Eighth 
+4) 3/4 DottedHalf 
+5) 3/4 Eighth Quarter Eighth Eighth Eighth 
+6) 3/4 Quarter DottedQuarter Eighth 
+7) 3/4 DottedQuarter Eighth Eighth Eighth 
+8) 3/4 DottedHalf 
+9) 3/4 DottedQuarter Eighth Eighth Eighth 
+10) 3/4 DottedHalf 
+1) 4/4 DottedQuarter Quarter Eighth Quarter 
+2) 4/4 Eighth Eighth Quarter Quarter Quarter 
+3) 4/4 DottedQuarter Eighth Quarter Quarter 
+4) 4/4 DottedHalf Quarter 
+5) 4/4 DottedHalf Quarter 
+6) 4/4 DottedHalf Quarter 
+7) 4/4 Whole 
+8) 4/4 Whole 
+9) 4/4 Eighth Eighth Eighth Eighth Half 
+10) 4/4 Eighth Quarter Eighth Half 
